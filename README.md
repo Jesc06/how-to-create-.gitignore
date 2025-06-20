@@ -19,3 +19,15 @@ cd "the current directory of your project here"
 touch .gitignore
 
 ```
+
+<br>
+<br>
+
+
+### If you're a Windows user, do this:
+
+
+```bash
+echo > .gitignore
+
+```
